@@ -101,7 +101,7 @@ python compare_results.py
 <!-- MODEL_COMPARISON_START -->
 | Model | Accuracy | Precision | Recall (Parasitized) | Specificity | F1 | ROC-AUC | PR-AUC |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Baseline CNN | — | — | — | — | — | — | — |
+| Baseline CNN | 0.8938 | 0.8352 | 0.9811 | 0.8064 | 0.9023 | 0.9835 | 0.9792 |
 | Regularized CNN | — | — | — | — | — | — | — |
 | Augmented CNN | — | — | — | — | — | — | — |
 | MobileNetV2 transfer | — | — | — | — | — | — | — |
